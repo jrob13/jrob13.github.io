@@ -7,8 +7,8 @@ Cambios provocados por la tecnología en algunos deportes
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cambios tecnológicos en el deporte</title>
-    <link rel="stylesheet" href="./css/estilos.css">
-    <link rel="stylesheet" href="./css/reset.css">
+    <link rel="stylesheet" href="./estilos.css">
+    <link rel="stylesheet" href="./reset.css">
 </head>
 <body>
     <header>
@@ -23,7 +23,7 @@ Cambios provocados por la tecnología en algunos deportes
         </ul>
     </nav>
     </header>
-    <img src="./imagenes/intro2.jpeg" alt="" class="imgintro">
+    <img src="./intro2.jpeg" alt="" class="imgintro">
     <main>
         <h2 id="generales" class="index">Principales cambios en el deporte por la tecnología</h2>
         <h3 class="index">BIG DATA</h3>
@@ -37,7 +37,7 @@ Cambios provocados por la tecnología en algunos deportes
             jugador durante un periodo de tiempo...
         </p>
         <h3 class="index">MEDICINA REGENERATIVA</h3>
-        <img src="./imagenes/medicinaregenerativa.jpeg" alt="Medicina regenerativa" class="index">
+        <img src="./medicinaregenerativa.jpeg" alt="Medicina regenerativa" class="index">
         <p class="index">Las lesiones de los deportistas siempre han sido una de las mayores preocupaciones de los clubes o 
             los entrenadores. Actualmente, la medicina ha mejorado mucho en todos sus ámbitos, pudiendo recortar bastante los 
             plazos de recuperación de los deportistas en las diferentes lesiones. La medicina regenerativa cada vez es más popular
@@ -48,7 +48,7 @@ Cambios provocados por la tecnología en algunos deportes
             lesionada.
         </p>
         <h3 class="index">CÁMARAS DE ALTA VELOCIDAD</h3>
-        <img src="./imagenes/altavelocidad.jpeg" alt="Alta velocidad" class="index">
+        <img src="./altavelocidad.jpeg" alt="Alta velocidad" class="index">
         <p class="index">En la actualidad, todos los deportes poseen cámaras de alta velocidad para poder revisar si
             alguna acción ha sido dudosa o puede haber cometido algún error el árbitro. En los diferentes deportes en las 
             zonas con mayor afluencia en la que se pueden cometer errores (en el caso del fútbol en la portería para saber
@@ -60,7 +60,7 @@ Cambios provocados por la tecnología en algunos deportes
             ordenador desde el que se procesa toda la información.
         </p>
         <h3 class="index">VISIÓN ARTIFICIAL</h3>
-        <img src="./imagenes/visionartificial.jpeg" alt="Visión artificial" class="index">
+        <img src="./visionartificial.jpeg" alt="Visión artificial" class="index">
         <p class="index">Este tipo de cámaras se encuentran tanto en las diferentes competiciones como en los entrenamientos
             de los deportistas. Gracias a este avance los entrenadores pueden ver las repeticiones  en 3D de los entrenamientos y 
             de las jugadas que tuvieron lugar durante el partido, de esa forma podrán ver los errores que cometieron sus
